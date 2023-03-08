@@ -1,0 +1,7 @@
+@media all and (min-width: 772px) {
+    /*.profile-wrapper .profile-content .user-card .right-column div{border: 1px solid rgba(0, 0, 0, 0.452);} */
+    .profile-wrapper{background-color: rgba(39, 39, 39, 0.103);}
+    .profile-wrapper .profile-content .user-card .left-column{ background-color: white; border-radius: 3px 3px; box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);}
+    .profile-wrapper .profile-content .user-card .left-column .girl-row{background-color: rgba(76, 0, 255, 0.185);}
+    .profile-wrapper .profile-content .user-card .right-column .right-column-inner .card{ background-color: white; border-radius: 3px 3px; box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);}
+}
